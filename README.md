@@ -1,6 +1,6 @@
 ## Hey, [Tribhuvan here!](https://www.linkedin.com/in/tribhuvan0/)  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px">
 
-<h1>Welcome to my humble abode in the Digital World..</h1> 
+<h1>Welcome to my innovative world..</h1> 
 
 <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/matrix.gif' alt = 'Awesome Matrix Code' align='right'/>
 
@@ -22,6 +22,9 @@
  
  ## Technologies I Use
 <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/git.svg' width='30'/>
+
+## Research papers
+* [Validation Intelligently of Automobile and People for Safe and Smart Society:](https://dl.acm.org/doi/10.1145/3549206.3549239).
  
  ## Who am I?
  ```python
