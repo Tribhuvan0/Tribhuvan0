@@ -24,7 +24,10 @@
 <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/git.svg' width='30'/>
 
 ## Research papers
-* [Validation Intelligently of Automobile and People for Safe and Smart Society:](https://dl.acm.org/doi/10.1145/3549206.3549239).
+* [Validation Intelligently of Automobile and People for Safe and Smart Society](https://dl.acm.org/doi/10.1145/3549206.3549239).
+* [Annual science magazine- Jigyasaa (IIT DELHI)](https://owncloud.iitd.ac.in/nextcloud/index.php/s/zdbiF8392q9ZXZN).
+* [Examining the AQI with effect of Agnihotra in NCR Region Extracting Knowledge for Sustainable Society
+and Holistic Development with Healthcare 5.0](https://link.springer.com/chapter/10.1007/978-981-19-6068-0 27).
  
  ## Who am I?
  ```python
