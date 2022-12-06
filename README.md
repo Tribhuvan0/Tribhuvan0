@@ -14,6 +14,10 @@
 * [Annual science magazine- Jigyasaa (IIT DELHI)](https://owncloud.iitd.ac.in/nextcloud/index.php/s/zdbiF8392q9ZXZN).
 * [Examining the AQI with effect of Agnihotra in NCR Region Extracting Knowledge for Sustainable Society
 and Holistic Development with Healthcare 5.0](https://link.springer.com/chapter/10.1007/978-981-19-6068-0_27).
+
+## Models deployed
+* [Real time stock price prediction](https://tribhuvan0-stockmarketforecast-stockmarket-lp2gcy.streamlit.app/)
+* [House price prediction](https://tribhuvan0-task-app-uhn3vm.streamlit.app/)
  
 
 ## :computer: Technologies I Love
