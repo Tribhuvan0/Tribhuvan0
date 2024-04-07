@@ -7,6 +7,11 @@
     <li>OpenCV, PyTorch, Albumentations</li>
     <li>Working on research paper involving blurry image detection</li>
 </ol>
+<h4>What I did recently</h4>
+<ol>
+    <li>learnt about SAM and zero shot learning</li>
+    <li>Worked on blurry image detection using fast fourier transforms, laplacian variance</li>
+</ol>
 <p>
     I've shared some insights on unnecessary bounding boxes in SAM. You can check it out <a href="https://www.reddit.com/r/computervision/comments/1bqwcun/comment/kxi8knd/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button">here</a>.
 </p>
