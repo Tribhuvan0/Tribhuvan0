@@ -1,6 +1,16 @@
 ## Hey, [Tribhuvan here!](https://www.linkedin.com/in/tribhuvan0/)  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px">
 
 <h1>Welcome to my innovative world..</h1> 
+<h4>Currently working on</h4>
+<ol>
+    <li>Image processing</li>
+    <li>OpenCV, PyTorch, Albumentations</li>
+    <li>Working on research paper involving blurry image detection</li>
+</ol>
+<p>
+    I've shared some insights on unnecessary bounding boxes in SAM. You can check it out <a href="https://www.reddit.com/r/computervision/comments/1bqwcun/comment/kxi8knd/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button">here</a>.
+</p>
+
 
 
 <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/matrix.gif' alt = 'Awesome Matrix Code' align='right'/>
