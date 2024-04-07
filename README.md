@@ -1,9 +1,7 @@
 ## Hey, [Tribhuvan here!](https://www.linkedin.com/in/tribhuvan0/)  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px">
 
 <h1>Welcome to my innovative world..</h1> 
-Currently working on 
-* Image processing
-* OpenCV, PyTorch, Albumentations
+
 
 <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/matrix.gif' alt = 'Awesome Matrix Code' align='right'/>
 
@@ -17,14 +15,16 @@ Currently working on
 * [Annual science magazine- Jigyasaa (IIT DELHI)](https://owncloud.iitd.ac.in/nextcloud/index.php/s/zdbiF8392q9ZXZN).
 * [Examining the AQI with effect of Agnihotra in NCR Region Extracting Knowledge for Sustainable Society
 and Holistic Development with Healthcare 5.0](https://link.springer.com/chapter/10.1007/978-981-19-6068-0_27).
+* [Analysis of PCS-QoL to investigate the holistic health for sustainable way of living in smart cities of 21st century](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=y7_9R3kAAAAJ&citation_for_view=y7_9R3kAAAAJ:9yKSN-GCB0IC)
 
-## Models deployed
+## Models deployed (Might not work but you can find code on the repo)
 * [Real time stock price prediction](https://tribhuvan0-stockmarketforecast-stockmarket-lp2gcy.streamlit.app/)
 * [House price prediction](https://tribhuvan0-task-app-uhn3vm.streamlit.app/)
+* [Crop Disease detection and Medicine suggestion]
  
 
 ## :computer: Technologies I Love
-* Java
+* Python
 * Machine Learning
 * Data Science
 * Deep learning
