@@ -20,7 +20,7 @@ and Holistic Development with Healthcare 5.0](https://link.springer.com/chapter/
 ## Models deployed (Might not work but you can find code on the repo)
 * [Real time stock price prediction](https://tribhuvan0-stockmarketforecast-stockmarket-lp2gcy.streamlit.app/)
 * [House price prediction](https://tribhuvan0-task-app-uhn3vm.streamlit.app/)
-* [Crop Disease detection and Medicine suggestion]
+* Crop Disease detection and Medicine suggestion
  
 
 ## :computer: Technologies I Love
