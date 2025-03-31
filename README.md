@@ -3,12 +3,15 @@
 <h1>Welcome to my innovative world..</h1> 
 <h4>Currently working on</h4>
 <ol>
+    <li>Synthetic Data Generation</li>
+    <li>Finetuning LLMs, VLMs</li>
     <li>Image processing</li>
     <li>OpenCV, PyTorch, Albumentations</li>
-    <li>Working on research paper involving blurry image detection</li>
 </ol>
 <h4>What I did recently</h4>
 <ol>
+    <li>Deployed my vision models on real world machines</li>
+    <li>Designed and Implemented solutions for recent startup from Scratch</li>
     <li>learnt about SAM and zero shot learning</li>
     <li>Worked on blurry image detection using fast fourier transforms, laplacian variance</li>
 </ol>
